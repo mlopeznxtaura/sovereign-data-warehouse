@@ -1,0 +1,1 @@
+"""sovereign-data-warehouse.query"""
